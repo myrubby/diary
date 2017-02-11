@@ -1,0 +1,2 @@
+# diary
+record my life
